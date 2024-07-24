@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "vietngoc0962gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "ngocdv",
+      "password": "123123"
+    }
+  ],
+  "entries": [
+    {
+      "id": "70c5",
+      "content": "okkkk"
+    },
+    {
+      "id": "706f",
+      "content": "cam on moi nguoi"
+    },
+    {
+      "id": "000b",
+      "content": "camn thay da xem video bai asm cua em"
+    }
+  ]
+}
